@@ -1,33 +1,15 @@
-## Portfolio
+## Selected projects in pattern recognition, collaborative learning and DL
 
 ---
 
-### Category Name 1 
+### PSO-Convolutional Neural Networks with Heterogeneous Learning Rate
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Development of a distributed collaborative learning framework for image classification by proposing a novel formulation called Dynamics1 and Dynamics2. This formulation incorporates distilled Cuckoo-Smale elements into the particle swarm optimization (PSO) algorithm, using K-Nearest Neighbors in convolutional neural networks (CNNs).
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p align="center">
+  <img src="img/dynamics.png?raw=true" width=30% height=auto/>
+</p>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
+[View source code](https://github.com/leonlha/PSO-ConvNet-Dynamics)
