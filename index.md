@@ -36,6 +36,8 @@ Fig.2: End-to-end Ensembles of Multiple Models: Concept and Design
 
 <img src="img/Multi_Models.png?raw=true"/>
 
+[View source code](https://github.com/leonlha/e2e-3m)
+
 ### Advanced capsule networks via context awareness
 
 Proposal of an improved design for Capsule Networks by incorporating additional Pooling layers to filter out image backgrounds and increases the number of Reconstruction layers to enhance image restoration.
