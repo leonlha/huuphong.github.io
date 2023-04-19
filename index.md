@@ -35,3 +35,19 @@ Fig.1: Single E2E-3M Model
 Fig.2: End-to-end Ensembles of Multiple Models: Concept and Design
 
 <img src="img/Multi_Models.png?raw=true"/>
+
+### Advanced capsule networks via context awareness
+
+Proposal of an improved design for Capsule Networks by incorporating additional Pooling layers to filter out image backgrounds and increases the number of Reconstruction layers to enhance image restoration.
+
+Fig.1: Vector Capsule Networks Architecture for ASL
+
+<img src="img/ASL_Vector_Capsule.png?raw=true"/>
+
+### An Improvement for Capsule Networks Using Depthwise Separable Convolution
+
+Proposal of a Depthwise Separable Convolution that replaces the Standard Convolution in Capsule Networks architecture. This new innovative design significantly reduces the total number of parameters in the model while enhancing its stability and provides competitive accuracy.
+
+Fig.1: Depthwise Separable Convolution Capsule Architecture
+
+<img src="img/12_1.png?raw=true"/>
