@@ -22,3 +22,16 @@ Fig.2: Rendering End-to-end ConvNet-Transformer Architecture
 
 Fig.3: Dynamic PSO-ConvNets System Design
 <img src="img/dynamic_system.png?raw=true"/>
+[View source code](https://github.com/leonlha/Video-Action-Recognition-Collaborative-Learning-with-Dynamics-via-PSO-ConvNet-Transformer)
+
+### Rethinking Recurrent Neural Networks and other Improvements for Image Classification
+
+Proposal of integration of a recurrent Neural Network (RNN) as an additional layer in the design of Convolutional Neural Networks (CNN) for image recognition. The developed end-to-end multi-model ensembles achieve state-of- the-art performance by notably extending the training strategy of the model. The proposed approach results in comparable or even superior results compared to leading models on challenging datasets.
+
+Fig.1: Single E2E-3M Model
+
+<img src="img/sgl_model.png?raw=true"/>
+
+Fig.2: End-to-end Ensembles of Multiple Models: Concept and Design
+
+<img src="img/Multi_Models.png?raw=true"/>
