@@ -57,5 +57,5 @@ Fig.1: Depthwise Separable Convolution Capsule Architecture
 ## Other projects
 A selection of other projects demonstrating specific skills.
 
-- [Develop mobile apps (ios, android), web apps and AR/VR](https://www.itp.co.th/web_app)
-- [Code for embedded systems: Scanning Probe Microscopy (SPM) and alike](https://gxsm.sourceforge.net/)
+- Develop mobile apps (<a href="">ios</a>, <a href="https://play.google.com/store/apps/developer?id=Ishida+Taiseisha+%28Thailand%29+Co.,+Ltd.&hl=en&gl=US">android</a>), <a href="https://www.itp.co.th/web_app">web apps and AR/VR</a>
+- Code for embedded systems: <a href="https://gxsm.sourceforge.net/">Scanning Probe Microscopy (SPM) and alike</a>
