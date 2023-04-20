@@ -53,3 +53,9 @@ Proposal of a Depthwise Separable Convolution that replaces the Standard Convolu
 Fig.1: Depthwise Separable Convolution Capsule Architecture
 
 <img src="img/12_1.png?raw=true"/>
+
+## Other projects
+A selection of other projects demonstrating specific skills.
+
+- [Develop mobile apps (ios, android), web apps and AR/VR](https://www.itp.co.th/web_app)
+- [Code for embedded system in Scanning Probe Microscopy (SPM) machine and alike](https://gxsm.sourceforge.net/)
