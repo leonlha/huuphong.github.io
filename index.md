@@ -46,6 +46,8 @@ Fig.1: Vector Capsule Networks Architecture for ASL
 
 <img src="img/ASL_Vector_Capsule.png?raw=true"/>
 
+[View demo](http://bit.ly/2O4sJSU)
+
 ### An Improvement for Capsule Networks Using Depthwise Separable Convolution
 
 Proposal of a Depthwise Separable Convolution that replaces the Standard Convolution in Capsule Networks architecture. This new innovative design significantly reduces the total number of parameters in the model while enhancing its stability and provides competitive accuracy.
@@ -57,5 +59,5 @@ Fig.1: Depthwise Separable Convolution Capsule Architecture
 ## Other projects
 A selection of other projects demonstrating specific skills.
 
-- Develop mobile apps (<a href="">ios</a>, <a href="https://play.google.com/store/apps/developer?id=Ishida+Taiseisha+%28Thailand%29+Co.,+Ltd.&hl=en&gl=US">android</a>), <a href="https://www.itp.co.th/web_app">web apps and AR/VR</a>
-- Code for embedded systems: <a href="https://gxsm.sourceforge.net/">Scanning Probe Microscopy (SPM) and alike</a>
+- Marketing mobile apps for automotive industry (<a href="https://play.google.com/store/apps/developer?id=Ishida+Taiseisha+%28Thailand%29+Co.,+Ltd.&hl=en&gl=US">android</a>, <a href="">ios</a>), <a href="https://www.itp.co.th/web_app">web apps and AR/VR</a>
+- Codes for GXSM machines: <a href="https://gxsm.sourceforge.net/">Scanning Probe Microscopy (SPM) and alike</a>
