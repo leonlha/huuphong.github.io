@@ -22,6 +22,9 @@ Fig.2: Rendering End-to-end ConvNet-Transformer Architecture.
 
 Fig.3: Dynamic PSO-ConvNets System Design.
 <img src="img/dynamic_system.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
+
 [View source code](https://github.com/leonlha/Video-Action-Recognition-Collaborative-Learning-with-Dynamics-via-PSO-ConvNet-Transformer)
 
 ### Rethinking Recurrent Neural Networks and other Improvements for Image Classification
@@ -35,6 +38,8 @@ Fig.1: Single E2E-3M Model.
 Fig.2: End-to-end Ensembles of Multiple Models: Concept and Design.
 
 <img src="img/Multi_Models.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
 
 [View source code](https://github.com/leonlha/e2e-3m)
 
@@ -57,6 +62,8 @@ Proposal of a Depthwise Separable Convolution that replaces the Standard Convolu
 Fig.1: Depthwise Separable Convolution Capsule Architecture.
 
 <img src="img/12_1.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
 
 ## Other projects
 A selection of other projects demonstrating specific skills.
