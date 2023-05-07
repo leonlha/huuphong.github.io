@@ -23,7 +23,7 @@ Fig.2: Rendering End-to-end ConvNet-Transformer Architecture.
 Fig.3: Dynamic PSO-ConvNets System Design.
 <img src="img/dynamic_system.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
+Keywords: Action Recognition, RNN, Transformer, CNN, PSO, Cucker-Smale, Distributed System, Collaborative Learning
 
 [View source code](https://github.com/leonlha/Video-Action-Recognition-Collaborative-Learning-with-Dynamics-via-PSO-ConvNet-Transformer)
 
@@ -39,7 +39,7 @@ Fig.2: End-to-end Ensembles of Multiple Models: Concept and Design.
 
 <img src="img/Multi_Models.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
+Keywords: Transfer Learning, Re-training, Test Time Augmentation (TTA), Ensemble Learning, Pruning
 
 [View source code](https://github.com/leonlha/e2e-3m)
 
@@ -63,7 +63,7 @@ Fig.1: Depthwise Separable Convolution Capsule Architecture.
 
 <img src="img/12_1.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
+Keywords: Capsule Networks, Depthwise Separable Convolution, CNN
 
 ## Other projects
 A selection of other projects demonstrating specific skills.
