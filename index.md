@@ -1,4 +1,4 @@
-## Selected projects in pattern recognition, collaborative learning and DL
+## Selected works in Machine Learning and Pattern Recognition
 
 ---
 
