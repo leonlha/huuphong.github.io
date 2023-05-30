@@ -8,7 +8,7 @@ Development of a distributed collaborative learning framework for image classifi
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
 
-[View source code](https://github.com/leonlha/PSO-ConvNet-Dynamics)
+[View source code on Github](https://github.com/leonlha/PSO-ConvNet-Dynamics)
 
 ### Video Action Recognition Collaborative Learning with Dynamics via PSO-ConvNet Transformer
 
@@ -25,7 +25,7 @@ Fig.3: Dynamic PSO-ConvNets System Design.
 
 **Keywords**: Action Recognition, RNN, Transformer, CNN, PSO, Cucker-Smale, Distributed System, Collaborative Learning
 
-[View source code](https://github.com/leonlha/Video-Action-Recognition-Collaborative-Learning-with-Dynamics-via-PSO-ConvNet-Transformer)
+[View source code on Github](https://github.com/leonlha/Video-Action-Recognition-Collaborative-Learning-with-Dynamics-via-PSO-ConvNet-Transformer)
 
 ### Rethinking Recurrent Neural Networks and other Improvements for Image Classification
 
@@ -41,7 +41,7 @@ Fig.2: End-to-end Ensembles of Multiple Models: Concept and Design.
 
 **Keywords**: Transfer Learning, Re-training, Test Time Augmentation (TTA), Ensemble Learning, Pruning
 
-[View source code](https://github.com/leonlha/e2e-3m)
+[View source code on Github](https://github.com/leonlha/e2e-3m)
 
 ### Advanced capsule networks via context awareness
 
@@ -67,5 +67,5 @@ Fig.1: Depthwise Separable Convolution Capsule Architecture.
 
 ## Other projects
 A selection of other projects demonstrating specific skills.
-- Marketing mobile apps for automotive industry (<a href="https://play.google.com/store/apps/developer?id=Ishida+Taiseisha+%28Thailand%29+Co.,+Ltd.&hl=en&gl=US">android</a>, <a href="https://apps.apple.com/th/developer/itp-asia-company-limited/id977116686">ios</a>), <a href="https://www.itp.co.th/web_app">web apps and AR/VR.</a>
-- Codes for GXSM machines: <a href="https://gxsm.sourceforge.net/">Scanning Probe Microscopy (SPM) and alike.</a>
+- Marketing mobile apps for automotive industry (<a href="https://play.google.com/store/apps/developer?id=Ishida+Taiseisha+%28Thailand%29+Co.,+Ltd.&hl=en&gl=US">Play Store</a>, <a href="https://apps.apple.com/th/developer/itp-asia-company-limited/id977116686">App Store</a>), <a href="https://www.itp.co.th/web_app">web apps and AR/VR.</a>
+- Codes for GXSM machines on SourceForge: <a href="https://gxsm.sourceforge.net/">Scanning Probe Microscopy (SPM) and alike.</a>
