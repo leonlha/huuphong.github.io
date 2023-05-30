@@ -6,7 +6,10 @@
 
 Development of a distributed collaborative learning framework for image classification by proposing a novel formulation called Dynamics1 and Dynamics2. This formulation incorporates distilled Cuckoo-Smale elements into the particle swarm optimization (PSO) algorithm, using K-Nearest Neighbors in convolutional neural networks (CNNs).
 
-[![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)[![][![](https://img.shields.io/badge/keras-red?logo=keras)](#)(https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  
+[![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
+[![](https://img.shields.io/badge/keras-red?logo=keras)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  
 
 [View source code on Github](https://github.com/leonlha/PSO-ConvNet-Dynamics)
 
