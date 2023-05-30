@@ -67,5 +67,5 @@ Fig.1: Depthwise Separable Convolution Capsule Architecture.
 
 ## Other projects
 A selection of other projects demonstrating specific skills.
-- Marketing mobile apps for automotive industry (<a href="https://play.google.com/store/apps/developer?id=Ishida+Taiseisha+%28Thailand%29+Co.,+Ltd.&hl=en&gl=US">Play Store</a>, <a href="https://apps.apple.com/th/developer/itp-asia-company-limited/id977116686">App Store</a>), <a href="https://www.itp.co.th/web_app">web apps and AR/VR.</a>
+- Marketing mobile apps for automotive industry (<a href="https://play.google.com/store/apps/developer?id=Ishida+Taiseisha+%28Thailand%29+Co.,+Ltd.&hl=en&gl=US">Play Store</a>, <a href="https://apps.apple.com/th/developer/itp-asia-company-limited/id977116686">App Store</a>), <a href="https://www.itp.co.th/web_app">Web apps and AR/VR.</a>
 - Codes for GXSM machines on SourceForge: <a href="https://gxsm.sourceforge.net/">Scanning Probe Microscopy (SPM) and alike.</a>
