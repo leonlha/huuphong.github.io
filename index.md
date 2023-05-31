@@ -11,6 +11,8 @@ Development of a distributed collaborative learning framework for image classifi
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  
 
+- H.P. Nguyen, A. Santos and B. Ribeiro, "PSO-Convolutional Neural Networks With Heterogeneous Learning Rate," in IEEE Access, vol. 10, pp. 89970-89988, 2022, doi: https://doi.org/10.1109/ACCESS.2022.3201142.
+
 [View source code on Github](https://github.com/leonlha/PSO-ConvNet-Dynamics)
 
 ### Video Action Recognition Collaborative Learning with Dynamics via PSO-ConvNet Transformer
@@ -54,6 +56,8 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 
 <img src="img/ASL_Vector_Capsule.png?raw=true"/>
 
+- H.P. Nguyen, B. Ribeiro (2019). Advanced Capsule Networks via Context Awareness. Artificial Neural Networks and Machine Learning – ICANN 2019: Theoretical Neural Computation. ICANN 2019. Lecture Notes in Computer Science(), vol 11727. Springer, Cham. https://doi.org/10.1007/978-3-030-30487-4_14
+
 [![](https://img.shields.io/badge/opencv-blue?logo=opencv)](#)[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
 
 [View demo](http://bit.ly/2O4sJSU)
@@ -66,6 +70,7 @@ Fig.1: Depthwise Separable Convolution Capsule Architecture.
 
 <img src="img/12_1.png?raw=true"/>
 
+- H.P. Nguyen, B. Ribeiro (2019). An Improvement for Capsule Networks Using Depthwise Separable Convolution. In: Morales, A., Fierrez, J., Sánchez, J., Ribeiro, B. (eds) Pattern Recognition and Image Analysis. IbPRIA 2019. Lecture Notes in Computer Science(), vol 11867. Springer, Cham. https://doi.org/10.1007/978-3-030-31332-6_45
 **Keywords**: Capsule Networks, Depthwise Separable Convolution, CNN
 
 ## Other projects
