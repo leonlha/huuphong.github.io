@@ -73,6 +73,26 @@ Fig.1: Depthwise Separable Convolution Capsule Architecture.
 - H.P. Nguyen, B. Ribeiro (2019). An Improvement for Capsule Networks Using Depthwise Separable Convolution. In: Morales, A., Fierrez, J., Sánchez, J., Ribeiro, B. (eds) Pattern Recognition and Image Analysis. IbPRIA 2019. Lecture Notes in Computer Science(), vol 11867. Springer, Cham. https://doi.org/10.1007/978-3-030-31332-6_45
 **Keywords**: Capsule Networks, Depthwise Separable Convolution, CNN
 
+### Action Recognition for American Sign Language
+
+Fig.1: ASL sequences of lion and cat signs
+
+<img src="img/asl_samples.png?raw=true"/>
+
+- H.P. Nguyen and B. Ribeiro. Action recognition for american sign language. In 24th Portuguese Conference on Pattern Recognition (RECPAD). RECPAD, 2018.
+
+**Keywords**: Action Recognition; Deep Learning; Convolutional Neural Networks; ASL
+
+### Offline and Online Deep Learning for Image Recognition
+
+Fig.1: Comparisons of SGDs using Cifar-10 benchmark
+
+<img src="img/comparison_sgd.png?raw=true"/>
+
+- H.P. Nguyen and B. Ribeiro. Offine and online deep learning for image recognition. In 2017 4th Experiment@ International Conference (exp. at’17), pages 171–175. IEEE, 2017.
+
+**Keywords**: Deep Learning; Convolutional Neural Networks; Image Recognition; Optimizers; SGD
+
 ## Other projects
 A selection of other projects demonstrating specific skills.
 - Marketing mobile apps for automotive industry (<a href="https://play.google.com/store/apps/developer?id=Ishida+Taiseisha+%28Thailand%29+Co.,+Ltd.&hl=en&gl=US">Play Store</a>, <a href="https://apps.apple.com/th/developer/itp-asia-company-limited/id977116686">App Store</a>), <a href="https://www.itp.co.th/web_app">Web apps and AR/VR.</a>
