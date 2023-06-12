@@ -4,7 +4,7 @@
 
 ### PSO-Convolutional Neural Networks with Heterogeneous Learning Rate
 
-Development of a distributed collaborative learning framework for image classification by proposing a novel formulation called Dynamics1 and Dynamics2. This formulation incorporates distilled Cuckoo-Smale elements into the particle swarm optimization (PSO) algorithm, using K-Nearest Neighbors in convolutional neural networks (CNNs).
+The creation of a distributed collaborative learning framework for image classification is achieved through the introduction of a new approach known as Dynamics 1 and Dynamics 2. This innovative formulation integrates refined Cuckoo-Smale elements into the particle swarm optimization (PSO) algorithm, leveraging the power of K-Nearest Neighbors within convolutional neural networks (CNNs).
 
 [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
 [![](https://img.shields.io/badge/keras-red?logo=keras)](#)
@@ -34,7 +34,7 @@ Fig.3: Dynamic PSO-ConvNets System Design.
 
 ### Rethinking Recurrent Neural Networks and other Improvements for Image Classification
 
-Proposal of integration of a recurrent Neural Network (RNN) as an additional layer in the design of Convolutional Neural Networks (CNN) for image recognition. The developed end-to-end multi-model ensembles achieve state-of- the-art performance by notably extending the training strategy of the model. The proposed approach results in comparable or even superior results compared to leading models on challenging datasets.
+The proposal involves integrating a recurrent neural network (RNN) as an additional layer in the design of convolutional neural networks (CNN) for image recognition. By implementing end-to-end multi-model ensembles and extending the training strategy of the model, the developed approach achieves state-of-the-art performance. The results obtained demonstrate comparable or even superior performance compared to leading models on challenging datasets.
 
 Fig.1: Single E2E-3M Model.
 
@@ -50,7 +50,7 @@ Fig.2: End-to-end Ensembles of Multiple Models: Concept and Design.
 
 ### Advanced capsule networks via context awareness
 
-Proposal of an improved design for Capsule Networks by incorporating additional Pooling layers to filter out image backgrounds and increases the number of Reconstruction layers to enhance image restoration.
+The proposal involves enhancing Capsule Networks through the incorporation of additional Pooling layers to effectively filter out image backgrounds. Furthermore, the number of Reconstruction layers is increased to improve image restoration capabilities. This improved design aims to enhance the performance and accuracy of Capsule Networks in handling image data.
 
 Fig.1: Vector Capsule Networks Architecture for ASL.
 
@@ -64,7 +64,7 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 
 ### An Improvement for Capsule Networks Using Depthwise Separable Convolution
 
-Proposal of a Depthwise Separable Convolution that replaces the Standard Convolution in Capsule Networks architecture. This new innovative design significantly reduces the total number of parameters in the model while enhancing its stability and provides competitive accuracy.
+The proposal introduces a novel approach in the Capsule Networks architecture by replacing the Standard Convolution with a Depthwise Separable Convolution. This innovative design offers several benefits, including a substantial reduction in the total number of parameters in the model, improved stability, and competitive accuracy. The proposed modification aims to optimize the performance of Capsule Networks by leveraging the advantages of Depthwise Separable Convolutions.
 
 Fig.1: Depthwise Separable Convolution Capsule Architecture.
 
