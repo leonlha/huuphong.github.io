@@ -73,6 +73,10 @@ Fig.1: Depthwise Separable Convolution Capsule Architecture.
 - H.P. Nguyen, B. Ribeiro (2019). An Improvement for Capsule Networks Using Depthwise Separable Convolution. In: Morales, A., Fierrez, J., Sánchez, J., Ribeiro, B. (eds) Pattern Recognition and Image Analysis. IbPRIA 2019. Lecture Notes in Computer Science(), vol 11867. Springer, Cham. https://doi.org/10.1007/978-3-030-31332-6_45
 **Keywords**: Capsule Networks, Depthwise Separable Convolution, CNN
 
+### Context-Aware Capsule Networks
+
+- H.P. Nguyen, B. Ribeiro (2019). Context-Aware Capsule Networks. Ciência 2019.
+
 ### Action Recognition for American Sign Language
 
 Fig.1: ASL sequences of lion and cat signs
