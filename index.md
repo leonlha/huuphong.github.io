@@ -114,7 +114,7 @@ Fig.1: Toyota Mingalar Android App Screenshots
 
 <img src="img/Toyota_Mingalar.png?raw=true"/>
 
-Fig.2: Mazda iOS App Screenshots
+Fig.2: Mazda iPhone App Screenshots
 
 <img src="img/Mazda.png?raw=true"/>
 
@@ -122,7 +122,11 @@ Fig.3: Toyota Avanza Android App Screenshots
 
 <img src="img/avanzatoyota.png?raw=true"/>
 
-Fig.4: Laitang Japan Website Screenshots
+Fig.4: Mazda iPad App Screenshots
+
+<img src="img/mazda_ipad.png?raw=true"/>
+
+Fig.5: Laitang Japan Website Screenshots
 
 <img src="img/laitangjapan.png?raw=true"/>
 
