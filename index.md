@@ -60,7 +60,7 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 
 [![](https://img.shields.io/badge/opencv-blue?logo=opencv)](#)[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
-https://github.com/leonlha/portfolio/assets/48662637/4057fd37-62e1-4851-870e-1ab4d35f5820
+https://github.com/leonlha/portfolio/assets/48662637/4b6ca036-b35a-4293-a770-94a6378d2447
 
 [View full video demo](http://bit.ly/2O4sJSU)
 
