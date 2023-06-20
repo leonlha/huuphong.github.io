@@ -49,7 +49,7 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 
 [View full video demo](http://bit.ly/2O4sJSU)
 
-- [Bonus synthetic ASL digits dataset](https://github.com/leonlha/synthetic_asl_digits_3d/tree/master)
+- [Bonus 3-D synthetic ASL digits dataset](https://github.com/leonlha/synthetic_asl_digits_3d/tree/master)
 
 [![IMAGE](img/2.png)](https://www.youtube.com/watch?v=nlYi9PBVLk4)
 [![IMAGE](img/5.png)](https://www.youtube.com/watch?v=S5TIoTxi4K0)
