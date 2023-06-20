@@ -58,9 +58,11 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 
 - H.P. Nguyen, B. Ribeiro (2019). Advanced Capsule Networks via Context Awareness. Artificial Neural Networks and Machine Learning – ICANN 2019: Theoretical Neural Computation. ICANN 2019. Lecture Notes in Computer Science(), vol 11727. Springer, Cham. https://doi.org/10.1007/978-3-030-30487-4_14
 
-[![](https://img.shields.io/badge/opencv-blue?logo=opencv)](#)[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
+[![](https://img.shields.io/badge/opencv-blue?logo=opencv)](#)[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
-[View video demo](http://bit.ly/2O4sJSU)
+https://github.com/leonlha/portfolio/assets/48662637/4057fd37-62e1-4851-870e-1ab4d35f5820
+
+[View full video demo](http://bit.ly/2O4sJSU)
 
 ### An Improvement for Capsule Networks Using Depthwise Separable Convolution
 
