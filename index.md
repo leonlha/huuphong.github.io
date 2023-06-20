@@ -28,7 +28,7 @@ Fig.2: Rendering End-to-end ConvNet-Transformer Architecture.
 Fig.3: Dynamic PSO-ConvNets System Design.
 <img src="img/dynamic_system.png?raw=true"/>
 
-**Keywords**: Action Recognition, RNN, Transformer, CNN, PSO, Cucker-Smale, Distributed System, Collaborative Learning
+**Keywords**: Action Recognition, Transformer, CNN, PSO, Cucker-Smale, Distributed System, Collaborative Learning, Kinetics-400
 
 [View source code on Github](https://github.com/leonlha/Video-Action-Recognition-Collaborative-Learning-with-Dynamics-via-PSO-ConvNet-Transformer)
 
