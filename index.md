@@ -88,7 +88,10 @@ Fig.1: ASL sequences of lion and cat signs
 
 - H.P. Nguyen and B. Ribeiro. Action recognition for american sign language. In 24th Portuguese Conference on Pattern Recognition (RECPAD). RECPAD, 2018.
 
-**Keywords**: Action Recognition; Deep Learning; Convolutional Neural Networks; ASL
+<video src="https://github.com/leonlha/portfolio/assets/48662637/702a3157-c9c7-4abb-a220-53e516be7d80" controls="controls" style="max-width: 100%;">
+</video>
+
+**Keywords**: Temporal Difference; Action Recognition; Deep Learning; Convolutional Neural Networks; ASL
 
 ### Offline and Online Deep Learning for Image Recognition
 
