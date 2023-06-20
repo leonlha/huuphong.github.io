@@ -32,22 +32,6 @@ Fig.3: Dynamic PSO-ConvNets System Design.
 
 [View source code on Github](https://github.com/leonlha/Video-Action-Recognition-Collaborative-Learning-with-Dynamics-via-PSO-ConvNet-Transformer)
 
-### Rethinking Recurrent Neural Networks and other Improvements for Image Classification
-
-The proposal involves integrating a recurrent neural network (RNN) as an additional layer in the design of convolutional neural networks (CNN) for image recognition. By implementing end-to-end multi-model ensembles and extending the training strategy of the model, the developed approach achieves state-of-the-art performance. The results obtained demonstrate comparable or even superior performance compared to leading models on challenging datasets.
-
-Fig.1: Single E2E-3M Model.
-
-<img src="img/sgl_model.png?raw=true"/>
-
-Fig.2: End-to-end Ensembles of Multiple Models: Concept and Design.
-
-<img src="img/Multi_Models.png?raw=true"/>
-
-**Keywords**: Transfer Learning, Re-training, Test Time Augmentation (TTA), Ensemble Learning, Pruning
-
-[View source code on Github](https://github.com/leonlha/e2e-3m)
-
 ### Advanced capsule networks via context awareness
 
 The proposal involves enhancing Capsule Networks through the incorporation of additional Pooling layers to effectively filter out image backgrounds. Furthermore, the number of Reconstruction layers is increased to improve image restoration capabilities. This improved design aims to enhance the performance and accuracy of Capsule Networks in handling image data.
@@ -69,6 +53,22 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 
 [![IMAGE](img/2.png)](https://www.youtube.com/watch?v=nlYi9PBVLk4)
 [![IMAGE](img/5.png)](https://www.youtube.com/watch?v=S5TIoTxi4K0)
+
+### Rethinking Recurrent Neural Networks and other Improvements for Image Classification
+
+The proposal involves integrating a recurrent neural network (RNN) as an additional layer in the design of convolutional neural networks (CNN) for image recognition. By implementing end-to-end multi-model ensembles and extending the training strategy of the model, the developed approach achieves state-of-the-art performance. The results obtained demonstrate comparable or even superior performance compared to leading models on challenging datasets.
+
+Fig.1: Single E2E-3M Model.
+
+<img src="img/sgl_model.png?raw=true"/>
+
+Fig.2: End-to-end Ensembles of Multiple Models: Concept and Design.
+
+<img src="img/Multi_Models.png?raw=true"/>
+
+**Keywords**: Transfer Learning, Re-training, Test Time Augmentation (TTA), Ensemble Learning, Pruning
+
+[View source code on Github](https://github.com/leonlha/e2e-3m)
 
 ### An Improvement for Capsule Networks Using Depthwise Separable Convolution
 
