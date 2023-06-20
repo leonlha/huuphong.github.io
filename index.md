@@ -11,7 +11,7 @@ The creation of a distributed collaborative learning framework for image classif
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  
 
-- H.P. Nguyen, A. Santos and B. Ribeiro, "PSO-Convolutional Neural Networks With Heterogeneous Learning Rate," in IEEE Access, vol. 10, pp. 89970-89988, 2022, doi: https://doi.org/10.1109/ACCESS.2022.3201142.
+- (**Q1**) H.P. Nguyen, A. Santos and B. Ribeiro, "PSO-Convolutional Neural Networks With Heterogeneous Learning Rate," in IEEE Access, vol. 10, pp. 89970-89988, 2022, doi: https://doi.org/10.1109/ACCESS.2022.3201142.
 
 [View source code on Github](https://github.com/leonlha/PSO-ConvNet-Dynamics)
 
