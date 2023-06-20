@@ -60,7 +60,7 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 
 [![](https://img.shields.io/badge/opencv-blue?logo=opencv)](#)[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
 
-[View demo](http://bit.ly/2O4sJSU)
+[View video demo](http://bit.ly/2O4sJSU)
 
 ### An Improvement for Capsule Networks Using Depthwise Separable Convolution
 
