@@ -65,6 +65,11 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 
 [View full video demo](http://bit.ly/2O4sJSU)
 
+- [Bonus dataset](https://github.com/leonlha/synthetic_asl_digits_3d/tree/master)
+
+[![IMAGE](img/2.png)](https://www.youtube.com/watch?v=nlYi9PBVLk4)
+[![IMAGE](img/5.png)](https://www.youtube.com/watch?v=S5TIoTxi4K0)
+
 ### An Improvement for Capsule Networks Using Depthwise Separable Convolution
 
 The proposal introduces a novel approach in the Capsule Networks architecture by replacing the Standard Convolution with a Depthwise Separable Convolution. This innovative design offers several benefits, including a substantial reduction in the total number of parameters in the model, improved stability, and competitive accuracy. The proposed modification aims to optimize the performance of Capsule Networks by leveraging the advantages of Depthwise Separable Convolutions.
