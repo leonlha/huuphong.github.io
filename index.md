@@ -51,8 +51,8 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 
 - [Additional 3-D dataset of synthetic ASL digits](https://github.com/leonlha/synthetic_asl_digits_3d/tree/master)
 
-[![IMAGE](img/2.png)](https://www.youtube.com/watch?v=nlYi9PBVLk4)
-[![IMAGE](img/5.png)](https://www.youtube.com/watch?v=S5TIoTxi4K0)
+[//]: #[![IMAGE](img/2.png)](https://www.youtube.com/watch?v=nlYi9PBVLk4)
+[//]: #[![IMAGE](img/5.png)](https://www.youtube.com/watch?v=S5TIoTxi4K0)
 
 ### Rethinking Recurrent Neural Networks and other Improvements for Image Classification
 
