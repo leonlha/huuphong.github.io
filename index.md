@@ -28,7 +28,7 @@ Fig.2: Rendering End-to-end ConvNet-Transformer Architecture.
 Fig.3: Dynamic PSO-ConvNets System Design.
 <img src="img/dynamic_system.png?raw=true"/>
 
-- (**Q1**) N.H. Phong and B. Ribeiro, “Video action recognition collaborative learning with dynamics via pso-convnet transformer,” DOI: 10.1038/s41598-023-39744-9, 2023, Accepted at Scientific Reports, Nature.
+- (**Q1**) Nguyen, H.P., Ribeiro, B. Video action recognition collaborative learning with dynamics via PSO-ConvNet Transformer. Sci Rep 13, 14624 (2023). https://doi.org/10.1038/s41598-023-39744-9
 
 **Keywords**: Action Recognition, Transformer, CNN, PSO, Cucker-Smale, Distributed System, Collaborative Learning, Kinetics-400
 
