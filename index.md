@@ -6,11 +6,6 @@
 
 The creation of a distributed collaborative learning framework for image classification is achieved through the introduction of a new approach known as Dynamics 1 and Dynamics 2. This innovative formulation integrates refined Cuckoo-Smale elements into the particle swarm optimization (PSO) algorithm, leveraging the power of K-Nearest Neighbors within convolutional neural networks (CNNs).
 
-[![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#)
-[![](https://img.shields.io/badge/keras-red?logo=keras)](#)
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  
-
 - (**Q1**) H.P. Nguyen, A. Santos and B. Ribeiro, "PSO-Convolutional Neural Networks With Heterogeneous Learning Rate," in IEEE Access, vol. 10, pp. 89970-89988, 2022, doi: https://doi.org/10.1109/ACCESS.2022.3201142.
 
 [View source code on Github](https://github.com/leonlha/PSO-ConvNet-Dynamics)
@@ -43,8 +38,6 @@ Fig.1: Vector Capsule Networks Architecture for ASL.
 <img src="img/ASL_Vector_Capsule.png?raw=true"/>
 
 - H.P. Nguyen, B. Ribeiro (2019). Advanced Capsule Networks via Context Awareness. Artificial Neural Networks and Machine Learning – ICANN 2019: Theoretical Neural Computation. ICANN 2019. Lecture Notes in Computer Science(), vol 11727. Springer, Cham. https://doi.org/10.1007/978-3-030-30487-4_14
-
-[![](https://img.shields.io/badge/opencv-blue?logo=opencv)](#)[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/tensorflow-orange?logo=tensorflow)](#) [![](https://img.shields.io/badge/keras-red?logo=keras)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 <video src="https://github.com/leonlha/portfolio/assets/48662637/4b6ca036-b35a-4293-a770-94a6378d2447" controls="controls" style="max-width: 100%;">
 </video>
